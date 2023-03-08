@@ -1,0 +1,111 @@
+/* CSS File for Best  Blogs Design */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-left: 20px;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+  }
+  
+  nav a:hover {
+    color: #c1c1c1;
+  }
+  
+  main {
+    margin: 20px;
+  }
+  
+  .featured-post img {
+    width: 100%;
+  }
+  
+  .featured-post h1 {
+    font-size: 36px;
+    margin-top: 20px;
+  }
+  
+  .featured-post p {
+    font-size: 20px;
+    margin-top: 20px;
+  }
+  
+  .featured-post a {
+    display: block;
+    margin-top: 20px;
+    font-size: 20px;
+    color: #333;
+    background-color: #c1c1c1;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  .recent-posts h2 {
+    font-size: 24px;
+    margin-top: 20px;
+  }
+  
+  .post {
+    margin-top: 20px;
+    border: 1px solid #c1c1c1;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .post img {
+    width: 100%;
+  }
+  
+  .post h3 {
+    font-size: 20px;
+    margin-top: 20px;
+  }
+  
+  .post p {
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
+  .post a {
+    display: block;
+    margin-top: 10px;
+    font-size: 16px;
+    color: #333;
+    background-color: #c1c1c1;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  footer p {
+    margin: 0;
+  }
